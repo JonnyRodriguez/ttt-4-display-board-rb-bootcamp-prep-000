@@ -184,7 +184,7 @@ describe "#display_board in 'lib/display_board.rb" do
       # example's situation.
 
       # *** Comment the line below by adding a # at the line start ***
-      #xpect(true).to be(true)
+      #expect(true).to be(true)
       
       board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 
